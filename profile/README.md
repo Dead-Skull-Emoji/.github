@@ -6,8 +6,8 @@ Welcome to the Li Institution! We are a group of programmers who like to make op
 Current members include:
 - Hello56721
 - carpetmaker3162
-- FHDHGNGN (anthonyhuang07)
-- 2ndDeity (daiwikdhawan)
+- FHDHGNGN (Anthony Huang)
+- 2ndDeity (Daiwik Dhawan)
 
 The languages we specialize in are:
 - HTML/CSS
